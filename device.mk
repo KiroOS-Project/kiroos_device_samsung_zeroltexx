@@ -31,4 +31,4 @@ PRODUCT_PACKAGES += \
     init.carrier.rc
 
 # Inherit from zero-common
-$(call inherit-product, device/samsung/zero-common/zero-common.mk)
+$(call inherit-product, device/samsung/universal7420-common/universal7420-common.mk)
